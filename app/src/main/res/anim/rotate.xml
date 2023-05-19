@@ -3,7 +3,7 @@
     android:fillAfter="true"
     android:interpolator="@android:anim/accelerate_decelerate_interpolator">
 
-    <rotate android:duraion="6000"
+    <rotate android:duration="6000"
         android:fromDegrees="0"
         android:toDegrees="360"
         android:pivotX="50%"
@@ -13,7 +13,7 @@
         android:fromDegrees="360"
         android:toDegrees="0"
         android:pivotX="50%"
-        android:startOffset="5000"
+        android:startOffset="500"
         android:pivotY="50%"/>
 
 </set>
